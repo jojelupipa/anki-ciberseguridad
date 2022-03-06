@@ -6,3 +6,5 @@ Siéntete libre de abrir un PR o un issue para indicar algún error o corregir a
 ## Mazos
 
 - **Aspectos legales y regulatorios:** Una revisión de aspectos jurídicos relacionados con la ciberseguridad. Introducción al contrato informático, licencias, protección de datos, esquema nacional de seguridad, Ley de servicios de la sociedad de la información y firma electrónica. 
+
+- **Seguridad en sistemas operativos:** Repaso a las medidas y fallas de seguridad en los principales sistemas operativos: Windows, Linux, macOS, iOS y Android.
