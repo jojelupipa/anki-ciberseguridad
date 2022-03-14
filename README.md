@@ -12,3 +12,5 @@ Siéntete libre de abrir un PR o un issue para indicar algún error o corregir a
 - **Análisis forense:** Introducción al análisis forense: Cadena de custodia, adquisición, preservación, análisis de evidencias, presentación y conceptos asociados.
 
 - **Seguridad en sistemas operativos:** Repaso a las medidas y fallas de seguridad en los principales sistemas operativos: Windows, Linux, macOS, iOS y Android.
+
+- **Seguridad en redes:** Introducción a conceptos de seguridad en redes: TCP/IP, vulnerabilidades y ataques, mecanismos de defensa proactivos y reactivos, y protocolos de seguridad(SSL/TLS, IPsec...).
