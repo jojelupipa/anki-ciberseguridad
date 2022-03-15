@@ -11,6 +11,8 @@ Siéntete libre de abrir un PR o un issue para indicar algún error o corregir a
 
 - **Análisis forense:** Introducción al análisis forense: Cadena de custodia, adquisición, preservación, análisis de evidencias, presentación y conceptos asociados.
 
+- **Criptografía y mecanismos de seguridad:** Una introducción a los conceptos matemáticos de criptografía, criptografía clásica y moderna, en flujo y en bloque, simétrica y asimétrica, funciones hash y los mecanismos de seguridad construidos a partir de estos.
+
 - **Seguridad en sistemas operativos:** Repaso a las medidas y fallas de seguridad en los principales sistemas operativos: Windows, Linux, macOS, iOS y Android.
 
 - **Seguridad en redes:** Introducción a conceptos de seguridad en redes: TCP/IP, vulnerabilidades y ataques, mecanismos de defensa proactivos y reactivos, y protocolos de seguridad(SSL/TLS, IPsec...).
