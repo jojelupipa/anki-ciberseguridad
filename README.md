@@ -11,9 +11,13 @@ Siéntete libre de abrir un PR o un issue para indicar algún error o corregir a
 
 - **Análisis forense:** Introducción al análisis forense: Cadena de custodia, adquisición, preservación, análisis de evidencias, presentación y conceptos asociados.
 
+- **Auditoría de la seguridad:** Introducción al concepto de auditoría, ventajas que reporta, tipos de auditorías con descripción de casos concretos y metodologías usadas.
+
 - **Criptografía y mecanismos de seguridad:** Una introducción a los conceptos matemáticos de criptografía, criptografía clásica y moderna, en flujo y en bloque, simétrica y asimétrica, funciones hash y los mecanismos de seguridad construidos a partir de estos.
 
 - **Gestión de la seguridad:** Revisión de nociones de seguridad de la información en una organización, definición del gobierno de la seguridad y la figura del profesional de la seguridad de la información.
+
+- **Seguridad en el software:** Introducción al problema de seguridad en el software, ciclo de vida de desarrollo seguro, análisis de malware y un repaso a las técnicas de codificación segura y errores más frecuentes en la codificación.
 
 - **Seguridad en sistemas operativos:** Repaso a las medidas y fallas de seguridad en los principales sistemas operativos: Windows, Linux, macOS, iOS y Android.
 
